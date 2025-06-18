@@ -1,0 +1,131 @@
+[33mcommit a182d78b318186cd14b490712a23d4122f1706c7[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Clayton Felipe dos Santos <claytonsantos.fs@outlook.com.br>
+Date:   Sat Jun 14 07:58:46 2025 -0300
+
+    Add pricing styles to princing.css for card layout and responsiveness
+    
+    - Introduced base styles for pricing section including header alignment and card margins.
+    - Defined typography for pricing headers and descriptions.
+    - Styled pricing elements with responsive font sizes and layout adjustments.
+    - Added media query for larger screens to enhance layout and text presentation.
+    - Included styles for list items with custom background and padding.
+    
+    Enhances pricing section with responsive styles and layout
+    
+    Implements base styles for the pricing section, improving header alignment and card margins.
+    
+    Defines typography for pricing headers and descriptions, ensuring responsive font sizes and layout adjustments.
+    
+    Adds media queries for larger screens to enhance layout and text presentation, as well as custom styles for list items.
+    
+    Relates to the addition of styling in princing.css for better card layout.
+    
+    Signed-off-by: Clayton Felipe dos Santos <claytonsantos.fs@outlook.com.br>
+
+[33mcommit f45d8cd6b5d3aa7d6280d5f93e6438e963f8472f[m
+Author: Clayton Felipe dos Santos <claytonsantos.fs@outlook.com.br>
+Date:   Fri Jun 13 07:35:21 2025 -0300
+
+    redimensionamento de imagens dos cards
+    
+    Signed-off-by: Clayton Felipe dos Santos <claytonsantos.fs@outlook.com.br>
+
+[33mcommit 422fbb922cd0bc961dff416bdc6cbf3749e1697a[m
+Author: Felipe Santos <104725809+claytosantos@users.noreply.github.com>
+Date:   Thu Jun 12 19:33:21 2025 -0300
+
+    Delete styles/sections.css
+
+[33mcommit 5de201c35b2f8a6fe81a2ec7b70cf7241e1e1ac6[m
+Author: Felipe Santos <104725809+claytosantos@users.noreply.github.com>
+Date:   Thu Jun 12 19:33:09 2025 -0300
+
+    Delete styles/about.css
+
+[33mcommit d43f0e600348d2320974efead252dafad3745277[m
+Author: Felipe Santos <104725809+claytosantos@users.noreply.github.com>
+Date:   Thu Jun 12 19:32:59 2025 -0300
+
+    Delete styles/features.css
+
+[33mcommit 46bcd49d9da2713f1e92001a34a0edaad9d93acc[m
+Author: Felipe Santos <104725809+claytosantos@users.noreply.github.com>
+Date:   Thu Jun 12 19:32:45 2025 -0300
+
+    Delete styles/cards.css
+
+[33mcommit 614b8c4b622dbf624f1691b2b51f5a6d5d36a74b[m
+Author: Felipe Santos <104725809+claytosantos@users.noreply.github.com>
+Date:   Thu Jun 12 08:32:25 2025 -0300
+
+    Criação do about.css
+
+[33mcommit 3cdf5fed80cb4636aebceb15fffe73e7ae3c5e8e[m
+Author: Felipe Santos <104725809+claytosantos@users.noreply.github.com>
+Date:   Thu Jun 12 08:31:16 2025 -0300
+
+    Atualizar o index.css
+
+[33mcommit 5a1f7994d1d0fab80f854cb629c64b4fff275acd[m
+Author: Felipe Santos <104725809+claytosantos@users.noreply.github.com>
+Date:   Thu Jun 12 08:30:48 2025 -0300
+
+    Atualização do index.css
+
+[33mcommit b1376b186508fc0c36627ea7880122c7b1ce804a[m
+Author: Felipe Santos <104725809+claytosantos@users.noreply.github.com>
+Date:   Thu Jun 12 08:30:00 2025 -0300
+
+    Criação do sections.css
+
+[33mcommit f993fd341fabf9d77b1b2bb0d3d300ea98a939ed[m
+Author: Felipe Santos <104725809+claytosantos@users.noreply.github.com>
+Date:   Thu Jun 12 08:28:54 2025 -0300
+
+    Criar features.css
+    
+    criação do fraturas.css
+
+[33mcommit 03367df36e31d59e57f89f74397e1637936e4e1a[m
+Author: Felipe Santos <104725809+claytosantos@users.noreply.github.com>
+Date:   Thu Jun 12 08:27:52 2025 -0300
+
+    Criar cards.css
+
+[33mcommit ed0b513c36b66c5de13705b701c492f9adfde781[m
+Author: Clayton Felipe dos Santos <claytonsantos.fs@outlook.com.br>
+Date:   Wed Jun 11 07:59:59 2025 -0300
+
+    `Refactor styles and layout of zingen.html, update global.css and index.css`
+    
+    Signed-off-by: Clayton Felipe dos Santos <claytonsantos.fs@outlook.com.br>
+
+[33mcommit c57a0a96f224b435fb6477b3282eeac4d00ac1be[m
+Author: Clayton Felipe dos Santos <claytonsantos.fs@outlook.com.br>
+Date:   Tue May 20 21:39:09 2025 -0300
+
+    `Refactor styles and layout of zingen.html, update index.css and buttons.css, add hero section and social links`
+    
+    Signed-off-by: Clayton Felipe dos Santos <claytonsantos.fs@outlook.com.br>
+
+[33mcommit 560de44d8d876f30e0f69c85fa4606219ecb3449[m
+Author: Clayton <clayton.fs@outlook.com.br>
+Date:   Tue May 13 06:47:19 2025 -0300
+
+     adicionado a pasta styles com arquivos estilizando o projeto
+
+[33mcommit 87460fa7a9eb4ac7b7579434a93207a0f8b0a61f[m
+Author: Clayton <clayton.fs@outlook.com.br>
+Date:   Mon May 12 21:11:41 2025 -0300
+
+    adicionando novas cores
+    
+    Signed-off-by: Clayton <clayton.fs@outlook.com.br>
+
+[33mcommit e897e54e61b1ff6e68a222527809867d312c9bb2[m
+Author: Clayton <clayton.fs@outlook.com.br>
+Date:   Mon May 12 21:07:58 2025 -0300
+
+    adicionando os arquivos do projeto
+    
+    Signed-off-by: Clayton <clayton.fs@outlook.com.br>
