@@ -7,11 +7,6 @@
 
   & .cards {
     margin-top: 2rem;
-
-    & .p{
-      font-size: var(--fs-price);
-    
-    }
   }
 
   & h3 {
@@ -59,7 +54,6 @@
     font-size: 0.875rem;
     color: var(--text-color-secondary);
   }
-
 
   & .premium {
     position: relative;
