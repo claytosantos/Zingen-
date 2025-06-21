@@ -1,8 +1,10 @@
 #hero {
+  
   text-align: center;
 
   & img[src*='music'] {
-    width: 12.875rem;
+    width: 412px;
+    height: auto;
   }
 
   & h1 {
@@ -24,11 +26,10 @@
 @media (width >= 80em) {
   #hero {
     background: url(/assets/icons/desktop.svg);
-
     background-repeat: no-repeat;
     background-position: center bottom;
-    background-size: 1280px 720px;
-    padding-bottom: 1.5rem;
+    background-size: 1280px 300px;
+    padding-bottom: 2%;
 
     & img[src*='music'] {
       width: 25.75rem;
